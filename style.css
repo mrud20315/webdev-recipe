@@ -1,0 +1,11 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 21px solid goldenrod;
+    width: 900px;
+    background-color: yellow;
+}
+
+h1{ 
+    font-size: 75;
+}
